@@ -7,4 +7,4 @@ The problem statement is in [Project.pdf](https://github.com/revanth27/GA/blob/m
 
 [main.py](https://github.com/revanth27/GA/blob/main/main.py) contains the code.
  
-[report.pdf](https://github.com/revanth27/GA/blob/main/report.pdf) contains the summary of the algorithm.
+[report.pdf](https://github.com/revanth27/GA/blob/main/Report.pdf) contains the summary of the algorithm.
